@@ -1,5 +1,8 @@
 # Netflix-Style Movie Recommendation System
 
+## Contributors
+Tuba SARIKAYA & Gül ERTEN -- GYK1
+
 ## Overview
 This project implements a sophisticated movie recommendation system similar to Netflix, using machine learning algorithms to provide personalized movie suggestions based on user preferences and viewing history. The system is built with FastAPI for the backend, PostgreSQL for data storage, and implements the KMeans clustering algorithm for generating recommendations.
 
